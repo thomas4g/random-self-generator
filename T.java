@@ -1,0 +1,1 @@
+import java.util.*;class T{public static void main(String[] a){Random r=new Random(5);for(int i=0;i<173;i++,System.out.print((char)r.nextInt(94)+32));}}
